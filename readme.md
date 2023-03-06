@@ -9,13 +9,17 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 ##### **Codice**
 
 - apro il browser
-- cerco Amazon
+- cerco su Amazon
 - effettuo il login
 - **FINCHE'** non trovo il regalo
   - cerco un regalo 
   - **SE** il regalo rispetta il budget
     - **SE** rispetta i tempi di consegna
       - Ho trovato un potenziale regalo
+      - **SE** il regalo potrebbe soddisfare i gusti di Silvia
+        - Aggiungo il regalo al carrello
   - **ALTRIMENTI**
-    - Continua a cercare il regalo
-- **COMPRO** il regalo
+  - Continua a cercare il regalo
+- **SE** c'è qualcosa nel carrello
+  - **SE E SOLO SE** il contenuto del carrello è il regalo
+    - **COMPRO** il regalo
