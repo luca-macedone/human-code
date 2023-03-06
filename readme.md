@@ -11,6 +11,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 - apro il browser
 - cerco su Amazon
 - effettuo il login
+- svuoto il carrello
 - **FINCHE'** non trovo il regalo
   - cerco un regalo 
   - **SE** il regalo rispetta il budget
